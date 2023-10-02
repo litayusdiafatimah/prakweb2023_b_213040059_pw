@@ -75,6 +75,11 @@ if( isset($_POST["cari"]) ) {
         </div>
        </div>
     </div>
+     <!-- Footer -->
+     <footer class="text-white text-center pb-5" style="background-color: #243A73">
+      <p>Dibuat oleh  by <a href="https://www.instagram.com/litaysdf/" class="text-white fw-bold">Lita ysdf</a></p>
+    </footer>
+    <!-- Akhir Footer -->
     </section>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     

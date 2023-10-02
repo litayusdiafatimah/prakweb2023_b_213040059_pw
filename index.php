@@ -99,7 +99,7 @@ if (isset ($_POST["cari"]) ) {
 
     <!-- Footer -->
     <footer class="text-white text-center pb-5" style="background-color: #243A73">
-      <p>Dibuat oleh <i class="bi bi-suit-heart-fill text-danger"></i> by <a href="https://www.instagram.com/litaysdf/" class="text-white fw-bold">Lita ysdf</a></p>
+      <p>Dibuat oleh </i> by  <a href="https://www.instagram.com/litaysdf/" class="text-white fw-bold">Lita ysdf</a></p>
     </footer>
     <!-- Akhir Footer -->
 
