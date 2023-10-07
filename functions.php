@@ -1,5 +1,5 @@
 <?php 
-$conn = mysqli_connect("localhost", "root", "", "prakweb2023b_213040059");
+$conn = mysqli_connect("localhost", "root", "", "prakweb_2023_b_213040059");
 
 
 function query($query) {
